@@ -1,4 +1,6 @@
-# Lista de Mitos y Verdades para Analizar.
+
+# Lista de Mitos y Verdades para Analizar
+
 |CASO|MITO O VERDAD|
 |----|-------------|
 |Flexbox solo funciona para diseños horizontales.| ❌ |
